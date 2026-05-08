@@ -1,5 +1,7 @@
 # Operação Voo Fantasma — Writeup
 
+![Certificado](./docs/certified.png) 
+
 ## Introdução
 
 O desafio apresentava um nome aparentemente aleatório:
@@ -33,6 +35,8 @@ O desafio mencionava:
 
 Isso levou ao **Pastebin**:
 
+![pastebin](./docs/PASTEBIN-evidence.png) 
+
 ```txt
 https://pastebin.com/
 ```
@@ -42,6 +46,7 @@ Usando o username fornecido:
 ```txt
 jcbelezaw
 ```
+![revelation](./docs/PASTEBIN-evidence.png)
 
 Foi encontrado um paste contendo a dica:
 
@@ -58,6 +63,8 @@ IDeeqdx Dorsdhm
 ```
 
 Obtém-se:
+
+![je](./docs/realname-revelation.png) 
 
 ```txt
 Jeffrey Epstein
@@ -94,9 +101,12 @@ O site contém:
 
 Nos documentos TECS/FBI foi encontrado o registro:
 
+![registration](./docs/aircrack-registration.png) 
+
 ```txt
 N212JE
 ```
+
 
 Associado à aeronave de Jeffrey Epstein.
 
@@ -115,7 +125,7 @@ Gulfstream G550
 ## Flag
 
 ```txt
-FLAG{GLF5}
+FLAG{N212JE}
 ```
 
 ---
@@ -123,6 +133,8 @@ FLAG{GLF5}
 # 4. Origem e destino
 
 Nos documentos das Epstein Files foi possível localizar referências ao voo:
+
+![EFTA02288953](./docs/EFTA02288953.png)
 
 ## Origem
 
@@ -152,8 +164,13 @@ O horário aceito pelo desafio foi:
 ```txt
 09:54AM
 ```
+O valor foi reconstruído durante a investigação utilizando:
 
-Obtido através de registros relacionados ao voo do `N212JE`.
+- registros históricos do voo;
+- dados associados ao N212JE;
+- correlação entre FlightAware, timezone e duração do trajeto.
+
+Não foi possível recuperar atualmente uma fonte pública direta exibindo explicitamente o horário de decolagem.
 
 ## Flag
 
