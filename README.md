@@ -46,7 +46,7 @@ Usando o username fornecido:
 ```txt
 jcbelezaw
 ```
-![revelation](./docs/PASTEBIN-evidence.png)
+![pastebin](./docs/PASTEBIN-evidence.png) 
 
 Foi encontrado um paste contendo a dica:
 
@@ -64,7 +64,7 @@ IDeeqdx Dorsdhm
 
 Obtém-se:
 
-![je](./docs/realname-revelation.png) 
+![revelation](./docs/realname-revelation.png)
 
 ```txt
 Jeffrey Epstein
