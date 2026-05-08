@@ -54,7 +54,7 @@ Foi encontrado um paste contendo a dica:
 
 Isso indicava uma **Cifra de César**.
 
-Aplicando shift `+1` em:
+Aplicando transformação de `25 para a direita` em:
 
 ```txt
 IDeeqdx Dorsdhm
