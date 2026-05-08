@@ -35,8 +35,6 @@ O desafio mencionava:
 
 Isso levou ao **Pastebin**:
 
-![pastebin](./docs/PASTEBIN-evidence.png) 
-
 ```txt
 https://pastebin.com/
 ```
@@ -64,7 +62,7 @@ IDeeqdx Dorsdhm
 
 Obtém-se:
 
-![revelation](./docs/realname-revelation.png)
+![revelation](./docs/realname-revalation.png)
 
 ```txt
 Jeffrey Epstein
@@ -101,7 +99,7 @@ O site contém:
 
 Nos documentos TECS/FBI foi encontrado o registro:
 
-![registration](./docs/aircrack-registration.png) 
+![registration](./docs/aircraft-registration.png) 
 
 ```txt
 N212JE
